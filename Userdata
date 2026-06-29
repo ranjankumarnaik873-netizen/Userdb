@@ -46,5 +46,11 @@
         "key": "kaluram1432",
         "expirydate": "15-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a15020c049dd0bdd",
+        "key": "Manibe1432",
+        "expirydate": "15-07-2026",
+        "Allowoffline": false
     }
 ]
