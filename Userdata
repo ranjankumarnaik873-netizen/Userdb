@@ -19,26 +19,8 @@
     },
     {
         "device_id": "370ff19e20114a4c",
-        "key": "mykey1432",
-        "expirydate": "15-07-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "76a5c16e596ac5be",
-        "key": "Kalia143",
-        "expirydate": "07-07-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "adf4ea640ed6ada7",
-        "key": "angad8763",
-        "expirydate": "17-07-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "07cfb25229b105d8",
-        "key": "Hare1432",
-        "expirydate": "15-07-2026",
+        "key": "key67890",
+        "expirydate": "15-06-2025",
         "Allowoffline": false
     }
 ]
