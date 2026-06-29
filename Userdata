@@ -40,5 +40,11 @@
         "key": "matigaon1432",
         "expirydate": "15-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "76a5c16e596ac5be",
+        "key": "kaluram1432",
+        "expirydate": "15-07-2026",
+        "Allowoffline": false
     }
 ]
