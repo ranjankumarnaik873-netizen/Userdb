@@ -52,5 +52,11 @@
         "key": "Manibe1432",
         "expirydate": "15-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "4f4abfb965f3e7a1",
+        "key": "Dambaru1432",
+        "expirydate": "15-07-2026",
+        "Allowoffline": false
     }
 ]
