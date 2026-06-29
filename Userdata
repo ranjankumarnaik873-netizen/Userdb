@@ -34,5 +34,11 @@
         "key": "Raj1432",
         "expirydate": "15-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "266e68bfb96d2777",
+        "key": "matigaon1432",
+        "expirydate": "15-07-2026",
+        "Allowoffline": false
     }
 ]
