@@ -70,5 +70,11 @@
         "key": "Rekanta1432",
         "expirydate": "15-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "7870063bc96ae84e",
+        "key": "Virat1432",
+        "expirydate": "15-07-2026",
+        "Allowoffline": false
     }
 ]
