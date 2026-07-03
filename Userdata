@@ -82,5 +82,11 @@
         "key": "Bilasini1432",
         "expirydate": "15-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "974e5844d7c85200",
+        "key": "Dayaram1432",
+        "expirydate": "15-07-2026",
+        "Allowoffline": false
     }
 ]
