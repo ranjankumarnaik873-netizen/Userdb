@@ -88,5 +88,11 @@
         "key": "Dayaram1432",
         "expirydate": "15-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3551d74515e096d6",
+        "key": "Kurchiram1432",
+        "expirydate": "15-07-2026",
+        "Allowoffline": false
     }
 ]
